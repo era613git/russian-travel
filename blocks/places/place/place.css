@@ -19,6 +19,12 @@
 
 @media all and (max-width: 768px) {
     .place {
+        margin: auto 24px;
+    }
+}
+
+@media all and (max-width: 320px) {
+    .place {
         margin: auto;
     }
 }
