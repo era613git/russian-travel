@@ -47,3 +47,5 @@
 @import url(../blocks/footer/footer.css);
 /* normalize */
 @import url(../vendor/normalize.css);
+/* fonts */
+@import url(../vendor/fonts/fonts.css);
