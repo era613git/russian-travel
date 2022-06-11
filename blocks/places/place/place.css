@@ -1,23 +1,24 @@
-.lead {
+.place {
+    display: flex;
+    flex-wrap: wrap;
     max-width: 984px;
     margin: auto;
-    text-align: center;
 }
 
 @media all and (max-width: 1280px) {
-    .lead {
+    .place {
         margin: auto 148px;
     }
 }
 
 @media all and (max-width: 1024px) {
-    .lead {
+    .place {
         margin: auto 48px;
     }
 }
 
 @media all and (max-width: 768px) {
-    .lead {
+    .place {
         margin: auto;
     }
 }
