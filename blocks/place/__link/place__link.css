@@ -6,3 +6,7 @@
     text-decoration: underline;
     color: white;
 }
+
+.place__link:hover {
+    cursor: pointer;
+}

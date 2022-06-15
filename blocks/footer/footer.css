@@ -6,10 +6,23 @@
     padding-bottom: 24px;
 }
 
+@media all and (max-width: 1024px) {
+    .footer {
+        padding-bottom: 24px;
+        margin: 64px 48px 0 48px;
+    }
+}
+
 @media all and (max-width: 768px) {
     .footer {
-        flex-direction: column;
         padding-bottom: 24px;
-        margin: 64px auto 0 auto;
+        margin: 64px 24px 0 24px;
+    }
+}
+
+@media all and (max-width: 320px) {
+    .footer {
+        margin: 64px 16px 0 16px;
+        flex-direction: column;
     }
 }

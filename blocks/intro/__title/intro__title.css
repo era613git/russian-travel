@@ -6,10 +6,20 @@
     margin: 92px 0 40px 0;
 }
 
-@media all and (max-width: 768px) {
+@media all and (max-width: 767px) {
     .intro__title {
         font-size: 32px;
         line-height: 1.09;
+        margin: 88px 0 40px 0;
     }
 }
+
+@media all and (max-width: 320px) {
+    .intro__title {
+        font-size: 32px;
+        line-height: 1.09;
+        margin: 64px 0 40px 0;
+    }
+}
+
 
