@@ -4,6 +4,7 @@
     font-weight: 400;
     margin: 0 0 0 40px;
     max-width: 484px;
+    font-family: 'Inter';
 }
 
 @media all and (max-width: 1024px) {

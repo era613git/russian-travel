@@ -4,6 +4,7 @@
     line-height: 1.2;
     font-weight: 400;
     margin: 0 auto 64px auto;
+    font-family: 'Inter';
 }
 
 @media all and (max-width: 767px) {

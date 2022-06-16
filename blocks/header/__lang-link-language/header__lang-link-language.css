@@ -7,3 +7,7 @@
 .header__lang-link-language:first-child {
     text-decoration: underline;
 }
+
+.header__lang-link-language:hover {
+    opacity: 80%;
+}

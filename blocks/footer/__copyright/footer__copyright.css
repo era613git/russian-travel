@@ -1,5 +1,9 @@
 .footer__copyright {
     margin: 0;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.14;
+    font-family: 'Inter';
 }
 
 @media all and (max-width: 768px) {
@@ -7,6 +11,12 @@
         font-size: 14px;
         font-weight: 400;
         line-height: 1;
+    }
+}
+
+@media all and (max-width: 600px) {
+    .footer__copyright {
+        margin: 48px 0 0 0;
     }
 }
 

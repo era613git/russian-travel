@@ -5,8 +5,9 @@
     margin: 0;
     text-decoration: underline;
     color: white;
+    font-family: 'Inter';
 }
 
 .place__link:hover {
-    cursor: pointer;
+    opacity: 80%;
 }

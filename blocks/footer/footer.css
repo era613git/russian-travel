@@ -9,16 +9,23 @@
 @media all and (max-width: 1024px) {
     .footer {
         padding-bottom: 24px;
-        margin: 64px 48px 0 48px;
+        margin: 92px 48px 0 48px;
     }
 }
 
 @media all and (max-width: 768px) {
     .footer {
         padding-bottom: 24px;
-        margin: 64px 24px 0 24px;
+        margin: 88px 24px 0 24px;
     }
 }
+
+@media all and (max-width: 600px) {
+    .footer {
+        flex-direction: column;
+    }
+}
+
 
 @media all and (max-width: 320px) {
     .footer {

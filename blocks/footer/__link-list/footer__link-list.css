@@ -6,6 +6,14 @@
     gap: 18px;
 }
 
+@media all and (max-width: 600px) {
+    .footer__link-list {
+        flex-direction: column;
+    }
+}
+
+
+
 @media all and (max-width: 320px) {
     .footer__link-list {
         flex-direction: column;

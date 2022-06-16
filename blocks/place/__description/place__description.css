@@ -4,3 +4,9 @@
     flex-direction: column;
     gap: 20px;
 }
+
+@media all and (max-width: 320px) {
+    .place__description {
+        margin-top: 32px;
+    }
+}
