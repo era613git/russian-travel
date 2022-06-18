@@ -10,17 +10,20 @@
 @media all and (max-width: 1024px) {
     .place__website {
         margin: 0 0 48px 32px;
+        
     }
 }
 
 @media all and (max-width: 768px) {
     .place__website {
         margin: 0 0 48px 28px;
+        max-width: 352px;
     }
 }
 
 @media all and (max-width: 320px) {
     .place__website {
         margin: 0 0 32px 16px;
+        max-width: 288px;
     }
 }
