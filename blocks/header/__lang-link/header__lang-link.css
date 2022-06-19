@@ -6,7 +6,7 @@
     gap: 18px;
     margin: 46px 0 0 0;
     text-decoration: none;
-    font-family: 'Inter';
+    font-family: "Inter", sans-serif;
 }
 
 @media all and (max-width: 767px) {

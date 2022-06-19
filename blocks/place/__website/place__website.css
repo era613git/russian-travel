@@ -3,6 +3,7 @@
     align-self: flex-end;
     display: flex;
     flex-direction: column;
+    font-family: "Inter", sans-serif;
 }
 
 @media all and (max-width: 370px) {

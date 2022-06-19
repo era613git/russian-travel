@@ -4,7 +4,7 @@
     font-size: 16px;
     line-height: 1.12;
     font-weight: 400;
-    font-family: 'Inter';
+    font-family: "Inter", sans-serif;
 }
 
 .footer__link:hover {
