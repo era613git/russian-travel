@@ -2,7 +2,3 @@
     text-decoration: underline;
     color: white;
 }
-
-.header__lang-link-language-active:hover {
-    opacity: 80%;
-}
